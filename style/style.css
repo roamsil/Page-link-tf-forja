@@ -58,16 +58,20 @@ body * {
 
 /* textos */
 h1 {
+    display: flex;
+    justify-content: center;
     color: rgba(191, 23, 23, 1);
-    padding-top: 150px;
-    padding-bottom: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
     font-weight: 500;
 }
 
 h2 {
+    display: flex;
+    justify-content: center;
     color: rgba(191, 23, 23, 1);
-    padding-top: 80px;
-    padding-bottom: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
     font-weight: 500;
 }
 
